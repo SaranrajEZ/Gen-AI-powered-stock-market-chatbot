@@ -28,36 +28,34 @@ Watch the full video here:
 
 ---.
 
-Tech Stack
-Python
+## Tech Stack
 
-Flask
+- Python 
+- Flask
+- OpenAI API
+- Yahoo Finance (yfinance)
+- Web Scraping (BeautifulSoup4)
+- Web Scraping Moneycontrol.com (for real-time news)
+- Fuzzy Matching (fuzzywuzzy)
 
-OpenAI API
+## Requirements
 
-Yahoo Finance (yfinance)
+Install the following Python libraries (already mentioned inside `requirements.txt`):
 
-Web Scraping (BeautifulSoup4)
+- Flask
+- openai
+- yfinance
+- requests
+- pandas
+- beautifulsoup4
+- fuzzywuzzy
 
-Fuzzy Matching (fuzzywuzzy)
+## Future Improvements
 
-Requirements
-
-Install the following Python libraries (already mentioned inside requirements.txt):
-
-Flask
-
-openai
-
-yfinance
-
-requests
-
-pandas
-
-beautifulsoup4
-
-fuzzywuzzy
+- Add Telegram and WhatsApp chatbot versions
+- Auto-fetch latest financial news every 1 hour
+- Add voice-based query support
+- Deployment to cloud platforms
 
 
 ##  Use Case Examples
@@ -79,16 +77,6 @@ fuzzywuzzy
 - **Manual Process**: Takes 10–20 mins per query  
   **Using Our Chatbot**: Get responses in just 3–5 seconds
 
-
-Future Improvements
-Add Telegram and WhatsApp chatbot versions
-
-Auto-fetch latest financial news every 1 hour
-
-Add voice-based query support
-
-Deployment to cloud platforms
-
-Thank You
-Thanks for checking out this project!
-If you found it useful or interesting, please leave a on GitHub and don't forget to watch the YouTube video! 
+## Thank You
+- Thanks for checking out this project!
+- If you found it useful or interesting, please leave a on GitHub and don't forget to watch the YouTube video! 
