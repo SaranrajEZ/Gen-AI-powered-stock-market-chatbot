@@ -26,7 +26,7 @@ Watch the full video here:
 *Click the thumbnail or [Click here](https://www.youtube.com/watch?v=kBDUYev0j7U) to watch!*
 
 
----.
+---
 
 ## Tech Stack
 
